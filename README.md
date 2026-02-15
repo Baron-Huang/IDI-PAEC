@@ -23,7 +23,7 @@
 
 3. Here's a visual result of our **IDI-PAEC** method:
 <div align=center>
-<img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Visual_for_IGI_PAEC.jpg" style="width:80%; height:80%;">
+<img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Visual_for_IGI_PAEC.jpg" style="width:100%; height:100%;">
 </div>
 
 
