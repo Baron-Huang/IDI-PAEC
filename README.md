@@ -14,10 +14,16 @@
 <img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Motivation_for_IGI_PAEC.jpg" style="width:100%; height:100%;">
 </div>
    
-2. Here's an overview of our **Instance Gradient-entropy Inhibition-optimized Prior-guiding Active Explanation Clustering (IDI-PAEC)** method:
+2. Here's an overview of our **IDI-PAEC** method:
 
 <div align=center>
 <img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Main_Frame_for_IGI_PAEC.jpg" style="width:80%; height:80%;">
+</div>
+
+
+3. Here's a visual result of our **IDI-PAEC** method:
+<div align=center>
+<img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Visual_for_IGI_PAEC.jpg" style="width:80%; height:80%;">
 </div>
 
 
