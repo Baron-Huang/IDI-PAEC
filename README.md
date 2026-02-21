@@ -29,7 +29,7 @@
 
 4. Here's a statistically explainable result of our **IGI-PAEC**
 <div align=center>
-<img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/Visual_for_IGI_PAEC.jpg" style="width:100%; height:100%;">
+<img src="https://github.com/Baron-Huang/TicMIL/blob/main/Main_fig/ICALE_ROC_IGI_PAEC.jpg" style="width:100%; height:100%;">
 </div>
 
 
