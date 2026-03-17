@@ -60,7 +60,7 @@ def plot_icale(X_rd_dict = None, x_rd = None):
         )
 
     plt.xlabel("Disturbance value")
-    plt.ylabel("ITALE value")
+    plt.ylabel("ICALE value")
     plt.legend(frameon=False)
     plt.tight_layout()
     plt.show()
