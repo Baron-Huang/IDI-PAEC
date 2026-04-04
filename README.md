@@ -3,7 +3,7 @@
 - Pan Huang, _Member_, _IEEE_, Mingrui Ma, Lan Wang, Zhiyong Li*, Qin Jin*, _Senior Member_, _IEEE_
 
 ## :fire: News
-- [2026/02/16] Our manuscript was submitted to _IEEE Transactions on Medical Imaging (IF 9.8)_.
+- [2026/02/16] Our manuscript was submitted to _Medical Image Analysis (IF 11.8)_.
 
 
 
